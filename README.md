@@ -7,7 +7,7 @@
   
 <img src="https://i5.walmartimages.com/asr/b51cf404-0228-4c59-bc60-5f01b4e89d36.c40ee83eade00e71e784e74bedad9f31.jpeg" width="600px">
 
-*Form faktor*
+*i5.walmartimages.com*
 
 
 ## KEYING
@@ -41,6 +41,8 @@
 
 <img src="https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c04113066.png" width="600px">
 
+*hp.com*
+
 * Seriell kommunikation
 * Klarar hot-plug
 * Ersätter PCI, PCI-X och AGP bus
@@ -53,7 +55,11 @@
 
 <img src="https://media.fs.com/images/community/upload/wangEditor/201912/30/_1577696037_99zwUgQjV6.jpg" width="600px">
 
+*fs.com*
+
 <img src="https://media.fs.com/images/community/upload/wangEditor/201912/30/_1577696088_ktAUQfs9PJ.jpg" width="600px">
+
+*fs.com*
 
 ## METHOD/PROTOCOL
 
@@ -71,6 +77,8 @@
 * RPi4 har inbyggd PCIe bus som går att nå via USB3 via en påbyggd brygga
 
 <img src="https://i1.wp.com/opencloudware.com/wp-content/uploads/2021/05/mirkopc-with-raspberry-pi-compute-module-4.jpg?resize=1024%2C576&ssl=1" width="600px">
+
+*wp.com*
 
 * Om SATA används (rekommenderas) så behövs en USB3-M.2 adapter
 
