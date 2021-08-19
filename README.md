@@ -4,6 +4,11 @@
 
 * M.2 är form faktor
 * 2240/2260/2280 (22mm bred, 40/60/80mm hög)
+  
+<img src="https://i5.walmartimages.com/asr/b51cf404-0228-4c59-bc60-5f01b4e89d36.c40ee83eade00e71e784e74bedad9f31.jpeg" width="600px">
+
+*Form faktor*
+
 
 ## KEYING
 
@@ -13,6 +18,10 @@
 * M/B is SATA
 * M is PCIe/NVMe
 * M is PCIe/AHCI
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/M2_Edge_Connector_Keying.svg/350px-M2_Edge_Connector_Keying.svg.png" width="600px">
+
+*https://en.wikipedia.org/wiki/M.2*
 
 ## SPEED
 
@@ -29,11 +38,22 @@
 ## PCIe
 
 * Peripheral Component Interconnect Express
+
+<img src="https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c04113066.png" width="600px">
+
 * Seriell kommunikation
 * Klarar hot-plug
 * Ersätter PCI, PCI-X och AGP bus
 
-* PCI-lane
+* PCI-lanes är flera seriella anslutningar på PCIe
+* PCI-lanes kan parallellkopplas för att öka bandbredden
+* Exempel på märkning - PCIe 2.0 / x4 (använder 4 lanes, 4ggr snabbare)
+* PC's BIOS hanterar lanes
+* PCIe är alltså seriell och parallell samtidigt
+
+<img src="https://media.fs.com/images/community/upload/wangEditor/201912/30/_1577696037_99zwUgQjV6.jpg" width="600px">
+
+<img src="https://media.fs.com/images/community/upload/wangEditor/201912/30/_1577696088_ktAUQfs9PJ.jpg" width="600px">
 
 ## METHOD/PROTOCOL
 
@@ -49,7 +69,10 @@
 
 * RPi4(b) har 2 x USB3 (5 Gbps bandbredd), 2 x USB2
 * RPi4 har inbyggd PCIe bus som går att nå via USB3 via en påbyggd brygga
-* Om SATA används 
+
+<img src="https://i1.wp.com/opencloudware.com/wp-content/uploads/2021/05/mirkopc-with-raspberry-pi-compute-module-4.jpg?resize=1024%2C576&ssl=1" width="600px">
+
+* Om SATA används (rekommenderas) så behövs en USB3-M.2 adapter
 
 ## SSD typer
 
