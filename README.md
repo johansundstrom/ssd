@@ -1,5 +1,7 @@
 # SSD
 
+Minnesanteckningar om SSD minnen, form faktorer, kontakter, hastigheter och tjänster 
+
 ## FORM FAKTOR
 
 * M.2 är form faktor
