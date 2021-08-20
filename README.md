@@ -1,6 +1,6 @@
 # SSD
 
-Minnesanteckningar om SSD minnen, form faktorer, kontakter, hastigheter och tjänster 
+Minnesanteckningar om SSD minnen, form faktorer, kontakter, hastigheter och tjänster, allt för att skapa en kunskapsbas inför att populera Rasberry Pi's och PC's med solid state drives.
 
 ## FORM FAKTOR
 
