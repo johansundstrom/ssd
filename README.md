@@ -8,7 +8,7 @@ Minnesanteckningar om SSD minnen, form faktorer, kontakter, hastigheter och tjä
 * M.2 anger minne på PCB
 * 2240/2260/2280 anger dess mått (22mm bred, 40/60/80mm hög)
   
-<img src="https://i5.walmartimages.com/asr/b51cf404-0228-4c59-bc60-5f01b4e89d36.c40ee83eade00e71e784e74bedad9f31.jpeg" width="600px">
+<img src="https://www.delock.com/infothek/M.2/images/formfaktoren-vergleich.jpg" width="600px">
 
 *i5.walmartimages.com*
 
