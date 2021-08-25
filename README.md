@@ -5,21 +5,24 @@ Minnesanteckningar om SSD minnen, form faktorer, kontakter, hastigheter och tjä
 ## FORM FAKTOR
 
 * M.2 är namnet på form faktorn
-* M.2 anger minne på PCB
+* M.2 är specifikation på internt expansionskort
 * 2240/2260/2280 anger dess mått (22mm bred, 40/60/80mm hög)
+* M.2 hanterar SATA och PCIe SSD
+* M.2 standarden är varianter på 
+  * upp till 4 PCIe lanes
+  * en SATA 6Gb/s 
+  * och/eller en USB 3.0 port
   
 <img src="https://www.delock.com/infothek/M.2/images/formfaktoren-vergleich.jpg" width="600px">
 
-*i5.walmartimages.com*
+*www.delock.com*
 
 
-## KEYING
+## ANSLUTNINGSNYCKLING
 
-* B - pin 12-19 (PCIe x2/SATA/USB 2.0/USB 3.0/HSIC/SSIC/Audio/UIM/I2C) [https://www.atpinc.com/blog/what-is-m.2-M-B-BM-key-socket-3]
-* M - pin 59-66 (PCIe x4/SATA)
-* M/B is SATA
-* M is PCIe/NVMe
-* M is PCIe/AHCI
+* B - SATA
+* M - PCIe (x2, x4)
+* M/B - PCIe eller SATA
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/M2_Edge_Connector_Keying.svg/350px-M2_Edge_Connector_Keying.svg.png" width="600px">
 
